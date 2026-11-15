@@ -397,6 +397,12 @@ Formularen skal som minimum indeholde:
 - e-mail
 - besked
 
+## Faglig begrundelse og individuel forståelse
+
+Alle gruppemedlemmer skal kunne forklare projektets centrale flows og sammenhængen mellem brugergrænseflade, komponenter og API. Den enkelte skal kunne begrunde konkrete implementeringsvalg og forholde sig til alternative løsninger.
+
+Ved den mundtlige eksamination kan dette undersøges gennem korte scenarier om eksempelvis formularfeedback, datahentning, JavaScript, responsivt layout eller tilgængelighed. Scenarierne tager udgangspunkt i projektets krav og semestrets faglige indhold.
+
 ## Aflevering
 
 Afleveringen skal bestå af fire links:
